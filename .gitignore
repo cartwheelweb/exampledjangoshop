@@ -1,0 +1,7 @@
+*.pyc
+dev.db*
+test.sqlite
+*.log
+local_settings.py
+build/
+
